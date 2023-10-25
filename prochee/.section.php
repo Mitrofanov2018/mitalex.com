@@ -1,3 +1,3 @@
 <?
-$sSectionName="Прочее";
+$sSectionName="Other";
 ?>
